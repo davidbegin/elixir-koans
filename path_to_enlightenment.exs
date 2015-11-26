@@ -1,5 +1,6 @@
 #!/usr/bin/env elixir
 
+ExUnit.start
 Code.load_file("utils/Koans.ex")
 
 Code.load_file("about_testing.exs")
